@@ -1,6 +1,3 @@
-﻿namespace Domain;
-
-
-public class Person
-{
-}
+﻿
+using System;
+namespace Domain;

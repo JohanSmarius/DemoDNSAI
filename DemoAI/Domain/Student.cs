@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public class Student { }
+
 }

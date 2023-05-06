@@ -1,9 +1,7 @@
-﻿using FluentAssertions;
+﻿
 using Domain;
+using System;
+using Xunit;
 
 namespace DomainTest;
 
-public class PersonTests
-{
-
-}

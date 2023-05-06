@@ -7,8 +7,5 @@ using Throw;
 
 namespace Domain
 {
-    public class Course
-    { 
-       
-    }
+    
 }
